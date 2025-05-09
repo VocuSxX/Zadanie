@@ -1,1 +1,1 @@
-print("Webhook test - commit z Ubuntu - piata zmiana")
+print("Webhook test - commit z Ubuntu - szusta zmiana")
